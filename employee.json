@@ -1,0 +1,8 @@
+
+[{"empno": 1, "ename": "Raj", "job": "Master Chef", "sal" : 80000},
+{"empno":2, "ename": "Aditi", "job": "Assistant Chef" , "sal": 50000},
+{"empno":3, "ename":"Mohit", "job":"Server" , "sal":15000 },
+{"empno":4, "ename":"Akshay", "job":"Server" , "sal":15000},
+{"empno":5, "ename":"Pooja", "job":"Manager" , "sal":60000},
+{"empno":6, "ename":"Aditya", "job":"Chef" , "sal":40000},
+{"empno":7, "ename":"Tejas", "job":"Cleaning" , "sal":5000}]
