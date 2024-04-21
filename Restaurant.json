@@ -1,0 +1,13 @@
+
+[{"empid":1, "name":"Red sauce pasta", "cuisine":"Italian", "price":300},
+{"empid":2, "name":"White sauce pasta", "cuisine":"Italian", "price":300},
+{"empid":3, "name":"Pizza", "cuisine":"Italian", "price":700},
+{"empid":4, "name":"Paneer Achari tikka", "cuisine":"Indian","price":300},
+{"empid":5, "name":"Chicken Tikka", "cuisine":"Indian", "price":400},
+{"empid":6, "name":"Paella", "cuisine":"Spanish", "price":700},
+{"empid":7, "name":"Tortilla", "cuisine":"Spanish", "price":250},
+{"empid":8, "name":"Biryani", "cuisine":"Indian", "price":500},
+{"empid":9, "name":"Kimpap", "cuisine":"Korean","price":350},
+{"empid":10, "name":"Ramen", "cuisine":"Korean", "price":500},
+{"empid":11, "name":"Triple Rice", "cuisine":"Chinese", "price":200},
+{"empid":12, "name":"Hakka Noodles", "cuisine":"Chinese", "price":200}]
